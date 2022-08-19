@@ -1,0 +1,13 @@
+import "./App.css";
+import "./Signup";
+import Signup from "./Signup";
+
+function App() {
+  return (
+    <div>
+      <Signup />
+    </div>
+  );
+}
+
+export default App;
